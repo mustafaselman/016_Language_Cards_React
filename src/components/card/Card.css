@@ -1,0 +1,84 @@
+.maincontainer {
+
+    background-color: #f28d2b;
+    width:18rem;
+    height:29rem;
+    display:inline-block;
+    border-radius: 8px;
+}
+.card{
+  
+    position:relative;
+    font-family: 'Permanent Marker', cursive;
+    background-color:white;
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    height: 4.5rem;
+    margin: 1rem 1rem;
+    border-radius: 8px;
+    display:inline-block;
+    width: 7rem;
+}
+
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.5);
+    
+  }
+
+  .card:hover .languageimg{
+   
+    display: none;
+  }
+  .card:hover .languagename{
+   
+    display: none;
+  }
+
+  .container {
+    position: absolute;
+    padding: 0rem 0.5rem ;
+    top: 2rem;
+  
+  }
+
+.description {
+display: none;
+  position:relative;
+  font-size:x-small;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  
+}
+.card:hover .description {
+  display:list-item;
+  top: -2.5rem;
+  left:-1.5rem;
+text-align:start;
+  
+}
+
+.languageimg {
+
+    position: absolute;
+    width: 3rem;
+    height: 2rem;
+    border-radius: 8px;
+    top: -1.5rem;
+    left: 2rem;
+}
+.languagename {
+    position:absolute;
+    top:-1rem;
+    width: 6rem;
+    color: black;
+}
+.title {
+    font-family: 'Permanent Marker', cursive;
+    color:white;
+    font-weight: bold;
+}
+
+body {
+    background-color: #f7df83;
+}
