@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mustafaselman/016_Language_Cards_React/static/css/main.c6331026.css",
+    "main.js": "/mustafaselman/016_Language_Cards_React/static/js/main.dcd6a34b.js",
+    "static/media/php.png": "/mustafaselman/016_Language_Cards_React/static/media/php.a94fd1fb4d7e38817e3a.png",
+    "static/media/python.png": "/mustafaselman/016_Language_Cards_React/static/media/python.b7f63631fb9038d03596.png",
+    "static/media/react.png": "/mustafaselman/016_Language_Cards_React/static/media/react.93c73a50cb9822fb84b7.png",
+    "static/media/ts.png": "/mustafaselman/016_Language_Cards_React/static/media/ts.7d7a6fac9de727be7458.png",
+    "static/media/css.png": "/mustafaselman/016_Language_Cards_React/static/media/css.a93faa4b29e8cec6a447.png",
+    "static/media/java.png": "/mustafaselman/016_Language_Cards_React/static/media/java.ccbfa871ce0a12663014.png",
+    "static/media/html.png": "/mustafaselman/016_Language_Cards_React/static/media/html.832516d9692212291d7d.png",
+    "static/media/cpp.png": "/mustafaselman/016_Language_Cards_React/static/media/cpp.aeebd17d6ad825d7980d.png",
+    "static/media/javascript.png": "/mustafaselman/016_Language_Cards_React/static/media/javascript.9afe415778466ca68141.png",
+    "index.html": "/mustafaselman/016_Language_Cards_React/index.html",
+    "main.c6331026.css.map": "/mustafaselman/016_Language_Cards_React/static/css/main.c6331026.css.map",
+    "main.dcd6a34b.js.map": "/mustafaselman/016_Language_Cards_React/static/js/main.dcd6a34b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6331026.css",
+    "static/js/main.dcd6a34b.js"
+  ]
+}
